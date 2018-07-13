@@ -1,0 +1,22 @@
+{
+    "name": "php",
+    "displayName": "Yammy",
+    "description": "A theme that looks like notepad++ / Dreamweaver",
+    "version": "0.0.1",
+    "publisher": "Webblogme",
+    "engines": {
+        "vscode": "^1.25.0"
+    },
+    "categories": [
+        "Themes"
+    ],
+    "contributes": {
+        "themes": [
+            {
+                "label": "Theme like notepad++ / Dreamweaver",
+                "uiTheme": "vs",
+                "path": "./themes/Theme like notepad++-color-theme.json"
+            }
+        ]
+    }
+}
